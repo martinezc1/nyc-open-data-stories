@@ -1,0 +1,44 @@
+---
+title: "About"
+---
+
+NYC Open Data Stories is a public-facing platform for reproducible civic data storytelling. The site brings together student research, instructional work, and original analyses that use data from the NYC Open Data Portal to better understand New York City.
+
+The goal of the project is to move beyond simply making data available. Instead, NYC Open Data Stories focuses on making data *usable*, *understandable*, and *meaningful* through clear analysis and reproducible workflows.
+
+## A Reproducible Approach to Civic Data
+
+All projects featured on this site are built using reproducible research practices. Analyses are conducted in R using Quarto, allowing each project to integrate code, data, and narrative in a single, transparent document.
+
+This approach ensures that work is not only viewable, but also reusable and extendable by others.
+
+## The NYC Open Data Student Gallery
+
+Many of the projects featured on this site originate from graduate student work at Brooklyn College. Students develop original research projects using NYC Open Data, which are then published as part of the NYC Open Data Student Gallery.
+
+These projects are designed to be:
+
+- public-facing  
+- reproducible  
+- portfolio-ready  
+
+Rather than ending with the semester, student work becomes part of an ongoing, growing body of civic data research.
+
+## The nycOpenData R Package
+
+A key component of this work is the [`nycOpenData`](https://martinezc1.github.io/nycOpenData/) R package, which provides a streamlined interface for accessing datasets from the NYC Open Data Portal.
+
+The package removes many of the technical barriers associated with working with open data APIs, allowing users to quickly retrieve and analyze datasets directly within R.
+
+By simplifying access to NYC Open Data, the package supports both learning and research, enabling students and analysts to focus on asking meaningful questions rather than managing data infrastructure.
+
+## Project Vision
+
+NYC Open Data Stories is part of a broader effort to build a reproducible, open, and public-facing data ecosystem. The project connects teaching, research, and public engagement through:
+
+- open educational resources  
+- reproducible research workflows  
+- student-driven data projects  
+- public data storytelling  
+
+The long-term vision is to create a sustainable model for civic data work that is both accessible and impactful.

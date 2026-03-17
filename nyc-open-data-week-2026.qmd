@@ -1,0 +1,11 @@
+---
+title: "Collection: NYC Open Data Week 2026"
+listing:
+  contents: nyc-open-data-week-2026
+  sort: "author asc"
+  type: grid
+  fields: [title, author, categories]
+  categories: true
+---
+
+As part of NYC Open Data Week 2026, the lab presented the [NYC Open Data Student Gallery](https://martinezc1-nyc-open-data-student-gallery.share.connect.posit.cloud/) book at [NYC Open Data Week 2026](https://opendataweek.nyc/event/teaching-with-nyc-open-data-publishing-student-civic-research-through-reproducible-workflows/). The projects below represent the individual student presentations that made up the session.

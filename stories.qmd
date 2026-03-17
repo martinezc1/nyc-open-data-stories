@@ -1,0 +1,10 @@
+---
+title: "Stories"
+listing:
+  contents: stories
+  sort: "date desc"
+  type: grid
+  fields: [title, date, description]
+---
+
+Each month we explore a new question about New York City using public data from NYC Open Data.

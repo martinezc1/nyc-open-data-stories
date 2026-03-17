@@ -1,0 +1,10 @@
+---
+title: "Christian Martinez"
+description: "Founder of NYC Open Data Stories and creator of the nycOpenData R package"
+---
+
+### Links
+
+- [GitHub](https://github.com/martinezc1)
+- [LinkedIn](https://www.linkedin.com/in/christian-a-martinez/)
+- [ORCID](https://orcid.org/0009-0005-6026-6454)

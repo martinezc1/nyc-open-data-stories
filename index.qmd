@@ -1,0 +1,22 @@
+---
+title: "NYC Civic Data Lab"
+---
+
+NYC Open Data Stories is a public-facing collection of civic data storytelling projects built with reproducible workflows in R and Quarto. The site brings together student research, event-based showcases, and original analyses using data from the NYC Open Data Portal.
+
+Our work sits at the intersection of open data, public scholarship, and reproducible research. Through this site, we aim to show how publicly available city data can be transformed into clear, accessible, and meaningful stories about New York City.
+
+This work is developed through the [Brooklyn Civic Data Lab at Brooklyn College (CUNY)](https://cuny.manifoldapp.org/projects/brooklyn-civic-data-lab), an initiative focused on open data, reproducible research, and public-facing student scholarship.
+
+## What you'll find here
+
+-   **Stories** — original data stories exploring New York City through public datasets
+-   **NYC Open Data Week 2026** — a showcase of student projects presented as part of NYC Open Data Week
+
+## Why this site exists
+
+This site was created to make civic data work more visible, more accessible, and more reproducible. Rather than treating student and lab work as something that disappears at the end of a semester, NYC Open Data Stories provides a place for projects to live publicly and continue contributing to conversations about the city.
+
+## Explore the site
+
+Start with the [Stories](stories.qmd) page to browse featured analyses, or visit [NYC Open Data Week 2026](nyc-open-data-week-2026.qmd) to view the student presentation showcase.

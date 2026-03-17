@@ -1,0 +1,12 @@
+---
+title: "Laura Rose Werner"
+description: "Contributor to nycOpenData and NYC Open Data Week 2026"
+---
+
+## Project
+
+- [Domestic Violence Incidents vs Recourse Allocation Across NYC](../nyc-open-data-2026/09-Domestic-Violence-Incidents-vs-Recourse-Allocation-Across-NYC-Laura.qmd)
+
+## Links
+
+-   [GitHub](https://github.com/laurarosewerner)

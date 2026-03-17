@@ -1,0 +1,14 @@
+---
+title: "Emma Tupone"
+description: "Contributor to nycOpenData and NYC Open Data Week 2026"
+---
+
+## Project
+
+- [Environmental Stressors and Social Complaints in New York City](../nyc-open-data-2026/07-EnvironmentalStressorsandSocialComplaintsNYC-Emma.qmd)
+
+## Links
+
+-   [GitHub](https://github.com/emmatup0205)\
+-   [LinkedIn](https://www.linkedin.com/in/emma-tupone-1353a1291/)\
+-   [ORCID](https://orcid.org/0009-0001-7207-0986)

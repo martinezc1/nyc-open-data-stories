@@ -1,0 +1,14 @@
+---
+title: "Jonah Dratfield"
+description: "Contributor to nycOpenData and NYC Open Data Week 2026"
+---
+
+## Project
+
+-   [Social Infrastructure & Well-Being](../nyc-open-data-2026/02-Final-Social-Infrastructure-and-Well-Being-Jonah.qmd)
+
+## Links
+
+-   [GitHub](https://github.com/jdratfield38)\
+-   [LinkedIn](https://www.linkedin.com/in/jonah-dratfield-932584167/)\
+-   [ORCID](https://orcid.org/0009-0005-6153-2590)

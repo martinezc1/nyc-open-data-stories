@@ -1,0 +1,14 @@
+---
+title: "Crystal Adote"
+description: "Contributor to nycOpenData and NYC Open Data Week 2026"
+---
+
+## Project
+
+-   [Leading Causes of Death and Indoor Environmental Complaints](../nyc-open-data-2026/01-Final-Project-Crystal.qmd)
+
+## Links
+
+-   [GitHub](https://github.com/crystalna20)\
+-   [LinkedIn](https://www.linkedin.com/in/crystal-adote-0305641ba/)\
+-   [ORCID](https://orcid.org/0009-0006-7777-9798)

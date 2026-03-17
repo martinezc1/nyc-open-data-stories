@@ -1,0 +1,14 @@
+---
+title: "Shannon Joyce"
+description: "Contributor to nycOpenData and NYC Open Data Week 2026"
+---
+
+## Project
+
+- [Toxic Homes: Exploring Mold Exposure Complaint and Domestic Violence Report Trends in NYC](../nyc-open-data-2026/06-ToxicHomes-Shannon.qmd)
+
+## Links
+
+-   [GitHub](https://github.com/shannonjoyce)\
+-   [LinkedIn](https://www.linkedin.com/in/shannon-joyce-aba12a1b5/)\
+-   [ORCID](https://orcid.org/0009-0000-5548-4952)

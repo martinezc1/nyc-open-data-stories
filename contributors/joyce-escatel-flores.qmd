@@ -1,0 +1,13 @@
+---
+title: "Joyce Escatel-Flores"
+description: "Contributor to nycOpenData and NYC Open Data Week 2026"
+---
+
+## Project
+
+- [NYC Restaurants and Museums](../nyc-open-data-2026/03-Final-Restaurant-and-Museum-Project-Joyce.qmd)
+
+## Links
+
+-   [GitHub](https://github.com/JoyceEscatel)\
+-   [LinkedIn](https://www.linkedin.com/in/joyce-escatel-flores/)

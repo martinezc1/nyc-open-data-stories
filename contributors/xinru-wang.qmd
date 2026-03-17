@@ -1,0 +1,14 @@
+---
+title: "Xinru Wang"
+description: "Contributor to nycOpenData and NYC Open Data Week 2026"
+---
+
+## Project
+
+- [Beating Around the Bush: Uncovering the Hidden Link Between Urban Trees and Wildlife Activity](../nyc-open-data-2026/08-Beating-Around-the-Bush--Uncovering-the-Hidden-Link-Between-Urban-Trees-and-Wildlife-Activity-Xinru.qmd)
+
+## Links
+
+-   [GitHub](https://github.com/xrwangxr)\
+-   [LinkedIn](https://www.linkedin.com/in/xinru-wang-798937393/)\
+-   [ORCID](https://orcid.org/0009-0006-3833-8199)

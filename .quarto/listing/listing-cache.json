@@ -1,0 +1,13 @@
+{
+  "listingMap": {
+    "stories.qmd": [
+      "stories"
+    ],
+    "nyc-open-data-week-2026.qmd": [
+      "nyc-open-data-2026"
+    ],
+    "contributors.qmd": [
+      "contributors"
+    ]
+  }
+}

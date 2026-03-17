@@ -1,0 +1,74 @@
+{
+  "index.qmd": {
+    "index.html": "35c1e8b6"
+  },
+  "about.qmd": {
+    "about.html": "80340a6a"
+  },
+  "stories.qmd": {
+    "stories.html": "74183c49"
+  },
+  "nyc-open-data-week-2026.qmd": {
+    "nyc-open-data-week-2026.html": "e3ac63da"
+  },
+  "nyc-open-data-2026/05-Final-Project-Isley.qmd": {
+    "05-Final-Project-Isley.html": "89a2e42c"
+  },
+  "nyc-open-data-2026/08-Beating-Around-the-Bush--Uncovering-the-Hidden-Link-Between-Urban-Trees-and-Wildlife-Activity-Xinru.qmd": {
+    "08-Beating-Around-the-Bush--Uncovering-the-Hidden-Link-Between-Urban-Trees-and-Wildlife-Activity-Xinru.html": "cb68156a"
+  },
+  "nyc-open-data-2026/03-Final-Restaurant-and-Museum-Project-Joyce.qmd": {
+    "03-Final-Restaurant-and-Museum-Project-Joyce.html": "098c60d9"
+  },
+  "nyc-open-data-2026/02-Final-Social-Infrastructure-and-Well-Being-Jonah.qmd": {
+    "02-Final-Social-Infrastructure-and-Well-Being-Jonah.html": "979c7dd1"
+  },
+  "nyc-open-data-2026/09-Domestic-Violence-Incidents-vs-Recourse-Allocation-Across-NYC-Laura.qmd": {
+    "09-Domestic-Violence-Incidents-vs-Recourse-Allocation-Across-NYC-Laura.html": "710221f0"
+  },
+  "nyc-open-data-2026/01-Final-Project-Crystal.qmd": {
+    "01-Final-Project-Crystal.html": "1dba82f9"
+  },
+  "nyc-open-data-2026/04-MSG-effect-Robert.qmd": {
+    "04-MSG-effect-Robert.html": "1a224c26"
+  },
+  "nyc-open-data-2026/07-EnvironmentalStressorsandSocialComplaintsNYC-Emma.qmd": {
+    "07-EnvironmentalStressorsandSocialComplaintsNYC-Emma.html": "db7dde4f"
+  },
+  "nyc-open-data-2026/06-ToxicHomes-Shannon.qmd": {
+    "06-ToxicHomes-Shannon.html": "6f319524"
+  },
+  "contributors.qmd": {
+    "contributors.html": "50276050"
+  },
+  "contributors/isley-jean-pierre.qmd": {
+    "isley-jean-pierre.html": "99c4e220"
+  },
+  "contributors/shannon-joyce.qmd": {
+    "shannon-joyce.html": "299d5791"
+  },
+  "contributors/crystal-adote.qmd": {
+    "crystal-adote.html": "d09bdc5c"
+  },
+  "contributors/xinru-wang.qmd": {
+    "xinru-wang.html": "9cef9ce8"
+  },
+  "contributors/emma-tupone.qmd": {
+    "emma-tupone.html": "2a51779f"
+  },
+  "contributors/robert-hutto.qmd": {
+    "robert-hutto.html": "f3c69b70"
+  },
+  "contributors/laura-rose-werner.qmd": {
+    "laura-rose-werner.html": "e6a36c91"
+  },
+  "contributors/joyce-escatel-flores.qmd": {
+    "joyce-escatel-flores.html": "a792ee8d"
+  },
+  "contributors/jonah-dratfield.qmd": {
+    "jonah-dratfield.html": "e971f3ca"
+  },
+  "contributors/christian-martinez.qmd": {
+    "christian-martinez.html": "58d0964c"
+  }
+}

@@ -1,0 +1,10 @@
+---
+title: "Contributors"
+page-layout: full
+listing:
+  contents: contributors
+  type: grid
+  fields: [description, title]
+---
+
+This project is made possible through the work of student researchers and contributors who developed projects using NYC Open Data and reproducible workflows.

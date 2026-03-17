@@ -1,0 +1,14 @@
+---
+title: "Robert Hutto"
+description: "Contributor to nycOpenData and NYC Open Data Week 2026"
+---
+
+## Project
+
+- [The Madison Square Garden Effect in the NBA](../nyc-open-data-2026/04-MSG-effect-Robert.qmd)
+
+## Links
+
+-   [GitHub](https://github.com/robhutto)\
+-   [LinkedIn](https://www.linkedin.com/in/robert-hutto-2497ab181/)\
+-   [ORCID](https://orcid.org/0009-0000-6343-6459)

@@ -1,0 +1,14 @@
+---
+title: "Isley Jean-Pierre"
+description: "Contributor to nycOpenData and NYC Open Data Week 2026"
+---
+
+## Project
+
+- [Final Project](../nyc-open-data-2026/05-Final-Project-Isley.qmd)
+
+## Links
+
+-   [GitHub](https://github.com/ijpier)\
+-   [LinkedIn](https://www.linkedin.com/in/isley-jean-pierre-21aa00396/)\
+-   [ORCID](https://orcid.org/0009-0003-2584-0292)
