@@ -1,5 +1,5 @@
 ---
-title: "NYC Civic Data Lab"
+title: "NYC Open Data Stories "
 ---
 
 NYC Open Data Stories is a public-facing collection of civic data storytelling projects built with reproducible workflows in R and Quarto. The site brings together student research, event-based showcases, and original analyses using data from the NYC Open Data Portal.

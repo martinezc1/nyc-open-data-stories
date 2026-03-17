@@ -4,3 +4,5 @@ rsconnect/
 .DS_Store
 .Rhistory
 .RData
+/.quarto/
+**/*.quarto_ipynb
