@@ -1,0 +1,124 @@
+---
+output: github_document
+---
+
+# NYC Open Data Stories
+
+NYC Open Data Stories is a public-facing collection of civic data storytelling projects built with reproducible workflows in **R** and **Quarto**.
+
+The site brings together student research, event-based showcases, and original analyses using data from the **NYC Open Data Portal**, transforming public datasets into clear, accessible, and meaningful stories about New York City.
+
+-   🔗 [Live Site](https://martinezc1-nyc-open-data-stories.share.connect.posit.cloud/)
+
+-   🔗 [Brooklyn Civic Data Lab](https://cuny.manifoldapp.org/projects/brooklyn-civic-data-lab)
+
+------------------------------------------------------------------------
+
+## 🌆 What is this project?
+
+NYC Open Data Stories sits at the intersection of:
+
+-   open data\
+-   public scholarship\
+-   reproducible research
+
+Rather than treating data as static or inaccessible, this project demonstrates how city data can be used to explore real-world questions across domains like public health, environment, housing, and social systems.
+
+------------------------------------------------------------------------
+
+## 📊 What you'll find
+
+-   **Stories**\
+    Original data stories exploring New York City through public datasets
+
+-   **NYC Open Data Week 2026**\
+    A showcase of student projects presented during NYC Open Data Week
+
+------------------------------------------------------------------------
+
+## 🔁 Reproducible by design
+
+All projects in this repository follow reproducible research principles:
+
+-   Built in **R**
+-   Authored using **Quarto**
+-   Combine **code, data, and narrative** in a single document
+-   Designed to be **transparent, reusable, and extensible**
+
+This ensures that work is not just readable — but also reproducible and adaptable by others.
+
+------------------------------------------------------------------------
+
+## 🎓 NYC Open Data Student Gallery
+
+Many of the projects originate from graduate coursework at Brooklyn College (CUNY), where students:
+
+-   develop original research using NYC Open Data\
+-   build reproducible workflows\
+-   publish portfolio-ready data stories
+
+Rather than ending with the semester, student work becomes part of a growing body of civic data research.
+
+------------------------------------------------------------------------
+
+## 📦 The `nycOpenData` R Package
+
+A key component of this work is the [`nycOpenData`](https://martinezc1.github.io/nycOpenData/) R package, which provides a streamlined interface for accessing datasets from the NYC Open Data Portal.
+
+By simplifying access to public data, the package enables users to focus on analysis and storytelling rather than data retrieval.
+
+------------------------------------------------------------------------
+
+## 🧠 Project Vision
+
+NYC Open Data Stories is part of a broader effort to build a:
+
+-   reproducible\
+-   open\
+-   public-facing data ecosystem
+
+This project connects:
+
+-   teaching\
+-   research\
+-   open-source tools\
+-   public engagement
+
+The long-term goal is to create a sustainable model for civic data work that is both accessible and impactful.
+
+------------------------------------------------------------------------
+
+## 🏗️ Built with
+
+-   R\
+-   Quarto\
+-   NYC Open Data Portal\
+-   GitHub / Posit Connect
+
+------------------------------------------------------------------------
+
+## 🤝 Contributing
+
+This project is part of an ongoing educational and civic initiative. Contributions, collaborations, and partnerships are welcome.
+
+If you're interested in:
+
+-   collaborating on data stories\
+-   contributing datasets or ideas\
+-   integrating this work into teaching or research
+
+feel free to reach out.
+
+------------------------------------------------------------------------
+
+## 📬 Contact
+
+Christian Martinez\
+Adjunct Lecturer, CUNY\
+Data Scientist & Founder, Angles Analytics
+
+------------------------------------------------------------------------
+
+## ⭐ Acknowledgments
+
+Developed through the Brooklyn Civic Data Lab at Brooklyn College (CUNY), with contributions from graduate students and the broader open data community.

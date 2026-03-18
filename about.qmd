@@ -18,9 +18,9 @@ Many of the projects featured on this site originate from graduate student work 
 
 These projects are designed to be:
 
-- public-facing  
-- reproducible  
-- portfolio-ready  
+-   public-facing\
+-   reproducible\
+-   portfolio-ready
 
 Rather than ending with the semester, student work becomes part of an ongoing, growing body of civic data research.
 
@@ -36,9 +36,9 @@ By simplifying access to NYC Open Data, the package supports both learning and r
 
 NYC Open Data Stories is part of a broader effort to build a reproducible, open, and public-facing data ecosystem. The project connects teaching, research, and public engagement through:
 
-- open educational resources  
-- reproducible research workflows  
-- student-driven data projects  
-- public data storytelling  
+-   open educational resources\
+-   reproducible research workflows\
+-   student-driven data projects\
+-   public data storytelling
 
 The long-term vision is to create a sustainable model for civic data work that is both accessible and impactful.
