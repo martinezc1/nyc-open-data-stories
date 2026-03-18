@@ -2,7 +2,7 @@
 title: "Social Infrastructure & Well-Being"
 author: "Jonah Dratfield"
 description: "This project investigates the relationship between social infrastructure and well-being in New York City by analyzing permitted events as a proxy for social connectedness and SNAP participation as an indicator of economic well-being. Using NYC Open Data and linear regression, the analysis explores how community-level social activity relates to economic outcomes while highlighting key limitations and proposing improvements for future data collection to better capture quality of life."
-categories: [public-health, social-issues, urban-planning]
+categories: ["Public Health", "Social Issues", "Urban Planning"]
 ---
 
 **Author:** [Jonah Dratfield](../contributors/jonah-dratfield.qmd)

@@ -2,7 +2,7 @@
 title: "Domestic Violence Incidents vs Recourse Allocation Across NYC"
 author: "Laura Werner"
 description: "This project investigates whether domestic violence resources are aligned with victim need across New York City by comparing borough-level domestic violence incident reports with Family Justice Center service utilization in 2020. Through descriptive comparisons, standardized service ratios, and visualizations, the analysis highlights disparities in support access and suggests that boroughs with the greatest reported need may not be receiving proportionate levels of engagement with available services."
-categories: [public-safety, social-issues, public-health]
+categories: ["Public Safety", "Social Issues", "Public Health"]
 ---
 
 **Author:** [Laura Werner](../contributors/laura-werner.qmd)

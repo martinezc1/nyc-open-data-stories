@@ -2,7 +2,7 @@
 title: "Leading Causes of Death and Indoor Environmental Complaints"
 author: "Crystal Adote"
 description: "This project explores potential relationships between indoor environmental complaints (e.g., mold, air quality, asbestos) and leading causes of death in New York City. Using NYC Open Data, the analysis combines data cleaning, visualization, and statistical modeling (correlation and regression) to investigate whether patterns in environmental complaints align with major health outcomes, while critically acknowledging the limitations of inferred relationships."
-categories: [public-health, environment]
+categories: ["Public Health", "Environment"]
 ---
 
 **Author:** [Crystal Adote](../contributors/crystal-adote.qmd)

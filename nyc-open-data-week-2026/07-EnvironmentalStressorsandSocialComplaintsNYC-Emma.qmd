@@ -2,7 +2,7 @@
 title: "Environmental Stressors and Social Complaints in New York City"
 author: "Emma Valentina"
 description: "This project examines whether flooding-related complaints are associated with noise complaints across New York City as a way of exploring how environmental stressors may relate to social indicators of anxiety. Using NYC Open Data, the analysis combines borough-level complaint counts, visualizations, and regression modeling to demonstrate how open civic data can support reproducible, psychologically informed research on climate-related urban stress."
-categories: [environment, public-health, social-issues]
+categories: ["Environment", "Public Health", "Social Issues"]
 
 ---
 

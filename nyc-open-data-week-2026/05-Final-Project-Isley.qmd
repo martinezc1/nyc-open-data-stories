@@ -1,8 +1,8 @@
 ---
-title: "Final Project"
+title: "Juvenile Rearrest Rates and Juvenile Supervision Caseloads in New York City"
 author: "Isley Jean-Pierre"
 description: "This project examines recent trends in juvenile rearrest rates and juvenile supervision caseloads in New York City from 2023 to 2025. Using NYC Open Data, the analysis explores patterns over time through correlations and visualizations, with the broader goal of developing a stronger, more comprehensive project on youth justice outcomes for future presentation."
-categories: [public-safety, social-issues]
+categories: ["Public Safety", "Social Issues"]
 ---
 
 **Author:** [Isley Jean-Pierre](../contributors/isley-jean-pierre.qmd)

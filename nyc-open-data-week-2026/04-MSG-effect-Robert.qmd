@@ -2,7 +2,7 @@
 title: "The Madison Square Garden Effect in the NBA"
 author: "Robert Hutto"
 description: "This project investigates whether the famed 'Madison Square Garden Effect' can be detected in NBA statistics. Using hoopR data from 2002 to the present, the analysis examines the Knicks’ home-court advantage, compares visiting player performance at MSG to other arenas, and identifies which players appear to rise—or struggle most—under the spotlight of basketball’s most iconic stage."
-categories: [sports, data-methods]
+categories: ["Sports"]
 ---
 
 **Author:** [Robert Hutto](../contributors/robert-hutto.qmd)

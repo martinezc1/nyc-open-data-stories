@@ -2,7 +2,7 @@
 title: "Toxic Homes: Exploring Mold Exposure Complaint and Domestic Violence Report Trends in NYC"
 author: "Shannon Joyce"
 description: "This project explores whether residential mold complaints and domestic violence reports in New York City follow similar patterns over time. Using NYC Open Data from 2010 to 2024, the analysis combines monthly borough-level aggregation, correlations, lagged comparisons, and regression models to examine how housing-related environmental stress may align with broader public health and safety trends, while carefully avoiding causal claims."
-categories: [public-health, social-issues, housing]
+categories: ["Public Health", "Social Issues", "Housing"]
 ---
 
 **Author:** [Shannon Joyce](../contributors/shannon-joyce.qmd)

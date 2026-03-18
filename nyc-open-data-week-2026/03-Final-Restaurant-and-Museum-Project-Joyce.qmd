@@ -2,7 +2,7 @@
 title: "NYC Restaurants and Museums"
 author: "Joyce Escatel-Flores"
 description: "This project explores whether restaurants located near New York City museums differ in quality and safety from those farther away by combining restaurant inspection data, museum location data, and restaurant rating data. Through chi-square tests and an interactive Leaflet map, the analysis examines relationships between museum proximity, restaurant ratings, and violation history while creating a practical tool for planning museum-and-dining outings in NYC."
-categories: [urban-planning, public-health]
+categories: ["Urban Planning", "Public Health"]
 ---
 
 **Author:** [Joyce Escatel-Flores](../contributors/joyce-escatel-flores.qmd)

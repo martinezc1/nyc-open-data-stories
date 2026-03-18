@@ -2,7 +2,7 @@
 title: "Beating Around the Bush: Uncovering the Hidden Link Between Urban Trees and Wildlife Activity"
 author: "Xinru Wang"
 description: "This project explores how street tree distribution relates to wildlife activity across New York City by combining tree census data with wildlife incident reports. Using borough-level summaries, spatial visualizations, and exploratory statistical analyses, the study examines patterns in urban ecology and highlights how open data can be used to better understand interactions between green infrastructure and wildlife in a complex urban environment."
-categories: [environment, urban-planning]
+categories: ["Environment", "Urban Planning"]
 ---
 
 **Author:** [Xinru Wang](../contributors/xinru-wang.qmd)
