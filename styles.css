@@ -14,3 +14,10 @@
   box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
 }
 
+.quarto-grid-item .listing-category {
+  text-transform: none !important;
+}
+
+.quarto-grid-item .listing-title {
+  margin-bottom: 0.5rem;
+}
