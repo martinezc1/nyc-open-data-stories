@@ -19,7 +19,7 @@ website:
 format:
   html:
     theme:
-      - morph
+      - quartz
       - brand
     css: styles.css
     toc: true
